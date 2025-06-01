@@ -1,10 +1,8 @@
 <h2 align="center">Hi! My name is Matheus!👋</h2>
 
-###
+
 
 <div align="center" style="display: flex">
-  
-### Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Matosaz&hide_title=false&hide_border=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Matosaz&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matosaz&locale=en&hide_border=false&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph" />
@@ -12,7 +10,7 @@
 
 
 
-
+<h3 align="center">Tech Stacks:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,6 +30,7 @@
 </div>
 
 ###
+<h3 align="center">Contact me by:</h3>
 
 <div align="center">
   <a href="https://discord.com/users/1114341665075904512" target="_blank">
