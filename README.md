@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matosaz/Matosaz/output/pacman-contribution-graph-dark.svg" width="80%">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matosaz/Matosaz/output/pacman-contribution-graph.svg" width="80%">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Matosaz/Matosaz/output/pacman-contribution-graph.svg" width="75%">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Matosaz/Matosaz/output/pacman-contribution-graph.svg" width="80%">
   </picture>
 </div>
 
