@@ -1,4 +1,9 @@
-<h2 align="center">Hi! Welcome to my Github profile!👋</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=1FA41D&center=true&vCenter=true&width=500&separator=%3C&lines=Hi!+Welcome+to+my+Github+profile+;)%3CI'm+Matheus!+Nice+to+meet+you" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
 
