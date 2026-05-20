@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./OficialGithubProfile.svg" alt="Profile SVG" width="100%"/>
+  <img src="./UpdatedGithubProfile.svg" alt="Profile SVG" width="100%"/>
 </p>
 <div align="center">
   <picture>
