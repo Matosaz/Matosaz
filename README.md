@@ -25,12 +25,17 @@
 
 <!-- ───────────── GitHub Stats ───────────── -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matosaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matosaz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <table border="0" width="100%">
+    <tr>
+      <td width="62%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matosaz&theme=tokyonight" width="100%"/>
+      </td>
+      <td width="35%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matosaz&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
 
 <!-- ───────────── Pacman ───────────── -->
 <div align="center">
